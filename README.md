@@ -11,10 +11,10 @@ This project is part of my Flutter portfolio and demonstrates API integration, c
 
 - 🔍 Search for any English word  
 - 📖 View definitions instantly  
-- 🧠 Simple, distraction-free UI  
+- 🧠 Simple, distraction free UI  
 - ⚡ Fast API powered results  
 - 🌐 Runs on Web, Windows, Android, and iOS  
-- 🌓 Ready for dark mode & future enhancements  
+- 🌓 Dark mode ,History ,Favourite and text to speech
 
 ---
 
