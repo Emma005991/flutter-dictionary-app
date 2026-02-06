@@ -38,12 +38,10 @@ cd dictionary-app
 
 2. Install dependencies:
 
-'bash
 flutter pub get
 
 3. Run the app:
 
-'bash
 flutter run
 
 
@@ -53,15 +51,15 @@ flutter run
 
 This project is part of my Flutter portfolio and demonstrates:
 
-API consumption
+. API consumption
 
-Asynchronous programming
+. Asynchronous programming
 
-Clean UI/UX design
+. Clean UI/UX design
 
-Error handling
+. Error handling
 
-Cross-platform Flutter development
+. Cross-platform Flutter development
 
 
 ---
