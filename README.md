@@ -23,7 +23,7 @@ This project is part of my Flutter portfolio and demonstrates API integration, c
 - Flutter
 - Dart
 - Public Dictionary API  
-- http – API requests  
+- http : API requests  
 - Material 3 UI
 
 ---
@@ -38,14 +38,12 @@ cd dictionary-app
 
 2. Install dependencies:
 
-
-
+'bash
 flutter pub get
 
 3. Run the app:
 
-
-
+'bash
 flutter run
 
 
@@ -68,5 +66,5 @@ Cross-platform Flutter development
 
 ---
 
-Built by Emmanuel 🚀
-Flutter Developer | Mobile App Enthusiast
+Built by Emmanuel 
+Flutter Developer
