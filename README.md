@@ -32,17 +32,23 @@ This project is part of my Flutter portfolio and demonstrates API integration, c
 
 1. Clone the repository:
 
-`bash
+```bash
 git clone https://github.com/Emma005991/dictionary-app.git
 cd dictionary-app
+```
 
 2. Install dependencies:
-
+   
+```bash
 flutter pub get
+```
 
 3. Run the app:
-
+   
+```bash
 flutter run
+```
+
 
 
 ---
@@ -59,7 +65,7 @@ This project is part of my Flutter portfolio and demonstrates:
 
 . Error handling
 
-. Cross-platform Flutter development
+. Cross platform 
 
 
 ---
